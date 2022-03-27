@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rusteeee
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me @russ#1361 on discord
